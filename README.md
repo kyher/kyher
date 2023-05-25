@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kyher (Kyle) - a software engineer currently employed as a QA engineer.
-- 🌱 I’m currently learning React, NextJS, Remix and Laravel. 
+- 👋 Hi, I’m @kyher (Kyle) - a software engineer.
+- 🌱 I’m currently learning React, NextJS and Laravel. 
 
 https://kyher.github.io/
 

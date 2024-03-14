@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kyher (Kyle) - a software engineer.
-- 🌱 I’m currently learning React, NextJS and Laravel. 
 
 https://kyher.github.io/
 

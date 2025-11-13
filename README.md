@@ -3,7 +3,7 @@
 GitHub Pages portfolio: https://kyher.github.io/
 
 ## Profile
-Software developer with years of experience within software engineering. Currently working as a software developer mainly working with Laravel /PHP / JavaScript / TypeScript on private projects.
+Software developer with years of experience within software engineering. Currently working as a software developer mainly working with Laravel / PHP / JavaScript / TypeScript on private projects.
 
 There are a few side projects here on my repository to maintain and expand knowledge.
 

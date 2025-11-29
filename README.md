@@ -11,6 +11,17 @@ There are a few side projects here on my repository to maintain and expand knowl
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,js,ts)](https://skillicons.dev)
 
+## Repositories
+This GitHub profile has some side project repositories which I develop in my spare time -- 
+
+| Repo                                                               | Description                                          | Stack        | Status            |
+| ------------------------------------------------------------------ | ---------------------------------------------------- | ------------ | ----------------- |
+| [kyher](https://github.com/kyher/kyher.github.io)                  | Porfolio                                             | React        | Forever evolving! |
+| [I can't type french](https://github.com/kyher/i-cant-type-french) | Small vite project to copy french characters easily. | React        | Done              |
+| [couplemdb](https://github.com/kyher/couplemdb)                    | Movie reviewing for two people                       | Next, React  | In progress       |
+| [TrackStats](https://github.com/kyher/track-stats)                 | F1 Track voting app                                  | Vue, Laravel | In progress       |
+
+
 ## Contact
 <a href="mailto:kyle.heron@proton.me">Email me!</a>
 

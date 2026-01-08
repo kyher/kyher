@@ -9,7 +9,7 @@ There are a few side projects here on my profile to maintain and expand knowledg
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,js,ts,vue)](https://skillicons.dev)
 
 ## Repositories
 This GitHub profile has some side project repositories which I develop in my spare time -- 
@@ -20,6 +20,7 @@ This GitHub profile has some side project repositories which I develop in my spa
 | [I can't type french](https://github.com/kyher/i-cant-type-french) | Small vite project to copy french characters easily. | React        | Done              |
 | [couplemdb](https://github.com/kyher/couplemdb)                    | Movie reviewing for two people                       | Next, React  | In progress       |
 | [TrackStats](https://github.com/kyher/track-stats)                 | F1 Track voting app                                  | Vue, Laravel | In progress       |
+| [EmojiChat](https://github.com/kyher/emoji-chat)                   | Emoji chat app                                       | Vue, Laravel (with Reverb) | In progress       |
 
 
 ## Contact

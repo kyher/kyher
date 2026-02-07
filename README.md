@@ -14,13 +14,14 @@ There are a few side projects here on my profile to maintain and expand knowledg
 ## Repositories
 This GitHub profile has some side project repositories which I develop in my spare time -- 
 
-| Repo                                                               | Description                                          | Stack        | Status            |
-| ------------------------------------------------------------------ | ---------------------------------------------------- | ------------ | ----------------- |
-| [kyher](https://github.com/kyher/kyher.github.io)                  | Porfolio                                             | React        | Forever evolving! |
-| [I can't type french](https://github.com/kyher/i-cant-type-french) | Small vite project to copy french characters easily. | React        | Done              |
-| [couplemdb](https://github.com/kyher/couplemdb)                    | Movie reviewing for two people                       | Next, React  | In progress       |
-| [TrackStats](https://github.com/kyher/track-stats)                 | F1 Track voting app                                  | Vue, Laravel | In progress       |
-| [EmojiChat](https://github.com/kyher/emoji-chat)                   | Emoji chat app                                       | Vue, Laravel (with Reverb) | In progress       |
+| Repo                                                               | Description                                          | Stack        |
+| ------------------------------------------------------------------ | ---------------------------------------------------- | ------------ |
+| [kyher](https://github.com/kyher/kyher.github.io)                  | Porfolio                                             | React        |
+| [I can't type french](https://github.com/kyher/i-cant-type-french) | Small vite project to copy french characters easily. | React        |
+| [couplemdb](https://github.com/kyher/couplemdb)                    | Movie reviewing for two people                       | Next, React  |
+| [TrackStats](https://github.com/kyher/track-stats)                 | F1 Track voting app                                  | Vue, Laravel |
+| [EmojiChat](https://github.com/kyher/emoji-chat)                   | Emoji chat app                                       | Vue, Laravel (with Reverb) |
+| [Recetterie](https://github.com/kyher/emoji-chat)                  | Recipe application                                   | Symfony      |
 
 
 ## Contact

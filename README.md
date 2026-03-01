@@ -22,7 +22,7 @@ This GitHub profile has some side project repositories which I develop in my spa
 | [TrackStats](https://github.com/kyher/track-stats)                 | F1 Track voting app                                  | Vue, Laravel |
 | [EmojiChat](https://github.com/kyher/emoji-chat)                   | Emoji chat app                                       | Vue, Laravel (with Reverb) |
 | [Recetterie](https://github.com/kyher/emoji-chat)                  | Recipe application                                   | Symfony      |
-
+| [Budgetr](https://github.com/kyher/budgetr)                 | Budgeting app                                | Vue, Laravel |
 
 ## Contact
 <a href="mailto:kyle.heron@proton.me">Email me!</a>

@@ -25,6 +25,7 @@ This GitHub profile has some side project repositories which I develop in my spa
 | [Budgetr](https://github.com/kyher/budgetr)                 | Budgeting app                                | Vue, Laravel |
 | [HealthDash](https://github.com/kyher/health-dash)                 | Health appointment tracking app                              | Vue, Laravel |
 | [Standupr](https://github.com/kyher/standupr)                 | Stand up app                           | Vue, Laravel |
+| [myhours](https://github.com/kyher/myhours)                 | App to show working hours                          | Tanstack Start, TS |
 
 ## Contact
 <a href="mailto:kyle.heron@proton.me">Email me!</a>

@@ -21,11 +21,11 @@ This GitHub profile has some side project repositories which I develop in my spa
 | [couplemdb](https://github.com/kyher/couplemdb)                    | Movie reviewing for two people                       | Next, React  |
 | [TrackStats](https://github.com/kyher/track-stats)                 | F1 Track voting app                                  | Vue, Laravel |
 | [EmojiChat](https://github.com/kyher/emoji-chat)                   | Emoji chat app                                       | Vue, Laravel (with Reverb) |
-| [Recetterie](https://github.com/kyher/emoji-chat)                  | Recipe application                                   | Symfony      |
 | [Budgetr](https://github.com/kyher/budgetr)                 | Budgeting app                                | Vue, Laravel |
 | [HealthDash](https://github.com/kyher/health-dash)                 | Health appointment tracking app                              | Vue, Laravel |
 | [Standupr](https://github.com/kyher/standupr)                 | Stand up app                           | Vue, Laravel |
 | [myhours](https://github.com/kyher/myhours)                 | App to show working hours                          | Tanstack Start, TS |
+| [C'est moi le chef](https://github.com/kyher/cest-moi-le-chef)                 | Recipe organisation app                          | Tanstack Start, TS |
 
 ## Contact
 <a href="mailto:kyle.heron@proton.me">Email me!</a>

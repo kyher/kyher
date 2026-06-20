@@ -1,12 +1,6 @@
-# 👋 Hi, I’m @kyher (Kyle) - senior software engineer.
+# 👋 Hi, I’m @kyher (Kyle)
 
 GitHub Pages portfolio: https://kyher.github.io/
-
-## Profile
-Senior software engineer with years of experience within software engineering. Currently working with Laravel / PHP / JavaScript / TypeScript on private projects.
-
-There are a few side projects here on my profile to maintain and expand knowledge.
-
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,js,ts,vue)](https://skillicons.dev)

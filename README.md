@@ -22,7 +22,7 @@ This GitHub profile has some side project repositories which I develop in my spa
 | [C'est moi le chef](https://github.com/kyher/cest-moi-le-chef)                 | Recipe organisation app                          | Tanstack Start, TS |
 
 ## Contact
-<a href="mailto:kyle.heron@proton.me">Email me!</a>
+<a href="mailto:kyleheron4@gmail.com">Email me!</a>
 
 <!---
 kyher/kyher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

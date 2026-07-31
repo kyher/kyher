@@ -20,6 +20,7 @@ This GitHub profile has some side project repositories which I develop in my spa
 | [Standupr](https://github.com/kyher/standupr)                 | Stand up app                           | Vue, Laravel |
 | [myhours](https://github.com/kyher/myhours)                 | App to show working hours                          | Tanstack Start, TS |
 | [C'est moi le chef](https://github.com/kyher/cest-moi-le-chef)                 | Recipe organisation app                          | Tanstack Start, TS |
+| [Cochonnet](https://github.com/kyher/cochonnet)                 | A small web game based on pétanque                      | React, TS |
 
 ## Contact
 <a href="mailto:kyleheron4@gmail.com">Email me!</a>
